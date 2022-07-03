@@ -31,8 +31,8 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thank you, Happy Learning </h1>
 
-   <h2> Last updated at 00:30 HRS, 14-06-2022 </h2>
+   <h2> Last updated at 08:07 HRS, 03-07-2022 </h2>
   
 </form>
